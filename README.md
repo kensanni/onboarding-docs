@@ -2,8 +2,8 @@
 This docs helps provide support for new engineers joining the team.
 
 # Table of Contents
-1. [Setting up VPN](#Setting up VPN)
-2. [Authenticating with the proxy git account](#Authenticating with the proxy git account)
+1. [`Setting up VPN`](#Setting up VPN)
+2. [`Authenticating with the proxy git account`](#Authenticating with the proxy git account)
 
 ## Setting up VPN
 First and foremost, the most important part of this onboarding process and while working with the client is to always have your VPN on. The default location should be set to `Seattle` but this can change and will be communicated on the slack channel. 
